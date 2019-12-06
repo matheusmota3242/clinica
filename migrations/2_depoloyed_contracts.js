@@ -1,5 +1,5 @@
-const Clinica = artifacts.require("Clinica");
+const Prescritor = artifacts.require("Prescritor");
 
 module.exports = function(deployer) {
-  deployer.deploy(Clinica);
+  deployer.deploy(Prescritor);
 };
