@@ -1,6 +1,6 @@
 <h1>Prescription Smart Contract Application</h1>
 
-This repository contains a demonstration application that utilizes JavaScript, React, and Solidity to simulate the process of prescription issuance via smart contracts on the blockchain. This application was developed as part of an academic project to showcase how blockchain technology can be applied in the healthcare field to ensure the security and integrity of medical prescriptions.
+This repository contains a demonstration application that utilizes **JavaScript**, **React**, and **Solidity** to simulate the process of prescription issuance via **smart contracts** on the **blockchain**. This application was developed as part of an academic project to showcase how blockchain technology can be applied in the healthcare field to ensure the security and integrity of medical prescriptions.
 
 <h2>Overview</h2>
 
